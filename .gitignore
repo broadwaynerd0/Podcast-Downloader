@@ -1,0 +1,4 @@
+podcasts/
+*.mp3
+*.part
+__pycache__/
